@@ -6,7 +6,7 @@
 <img align="right" alt="coding" with="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
 
 
-- 🔭I'm currently working on [ricy and morty](https://github.com/gaiaysl/Rick-and-Morty-API-React-NextJS)
+- 🔭I'm currently working on [ricky and morty](https://github.com/gaiaysl/Rick-and-Morty-API-React-NextJS)
 
 - 👨‍💻 All of my projects are available at https://github.com/gaiaysl
 
